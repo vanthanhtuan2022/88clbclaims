@@ -17,7 +17,7 @@ https://www.facebook.com/88clbclaims/
 
 https://www.linkedin.com/in/88clbclaims/ 
 
-https://www.pinterest.com/88clb.claims/ 
+https://www.pinterest.com/88clbclaims/ 
 
 https://twitter.com/88clbclaims 
 
