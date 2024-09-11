@@ -1,22 +1,30 @@
-Welcome to Lumache's documentation!
+88clb - Link đăng ký đăng nhập tại 88clb.claims
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88clb <https://88clb.claims/>`_ là một trong những thương hiệu cá cược trực tuyến hàng đầu hiện nay. 88clb mang tới cho người chơi sự đa dạng về cược thể thao cùng giao diện dễ sử dụng và nhiều ưu đãi hấp dẫn. Đăng ký ngay tài khoản 88clb.claims để nhận ưu đãi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 248 Đ. Mỹ Ả, Đông Mỹ, Thanh Trì, Hà Nội. 
 
-   This project is under active development.
+Phone: 0909554455. 
 
-Contents
---------
+Email: 88clbclaims@gmail.com. 
 
-.. toctree::
+Website: https://88clb.claims/
 
-   usage
-   api
+https://www.facebook.com/88clbclaims/ 
+
+https://www.linkedin.com/in/88clbclaims/ 
+
+https://www.pinterest.com/88clb.claims/ 
+
+https://twitter.com/88clbclaims 
+
+https://88clbclaims.tumblr.com/ 
+
+https://www.instagram.com/88clbclaims/ 
+
+https://www.youtube.com/@88clbclaims 
+
+#88clb #casino_88clb #nha_cai_88clb #88clbclaims
